@@ -1,0 +1,139 @@
+h1, h2, h3, form, div, p, img { padding: 0; margin: 0; }
+
+
+    .tr a{
+       
+            background: green;
+        }
+
+        a{
+            color: #18636d;
+            text-decoration: none;
+        }
+        a:visited {
+            color:#484518e0 ;
+        }
+        a:hover {
+             text-decoration:underline;
+        }
+        h1 a:visited{
+            color: rgb(28, 83, 28);
+        }
+
+       h1 a:hover{
+           color: teal;
+       }
+    th{
+        border-color: lavender;
+    }
+    .color{
+        background-color: #1f6822e0;
+        
+    }
+    .peace{
+        text-align: center;
+    }
+    
+    .q{
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        width: 600px;
+    }
+    .p{
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;  
+    }
+    .m{
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        width: 200px;
+    }
+   
+    .last {
+        text-align: center;
+        border-style: groove;
+        border-bottom: 1px solid #c8ccc0;
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        background-color: #f6f6ec;
+        margin: 0.5cm 3cm 0.5cm 3cm;
+}
+.g{
+        background-color: azure;
+}
+.second {
+        text-align: center;
+        border-style: groove;
+        border-bottom: 1px solid #c8ccc0;
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        background-color: #f6f6ec;
+        margin: 0.5cm 3cm 0.5cm 3cm;
+        
+
+} 
+.glory {
+    font-;
+        text-align: center;
+        border-style: groove;
+        border-bottom: 1px solid #c8ccc0;
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        background-color: #f6f6ec;
+        margin: 0.5cm 3cm 0.5cm 3cm;
+}
+
+    body {    
+        font-family:  "Segoe UI";
+        font-size: 11pt;
+        text-align: center;
+        background-image: url(pattern.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        pa
+    }
+    th, td {
+        padding: 6px 8px;
+        background: #e8ece0;
+        text-align: left;
+        border: 1px solid #c8ccc0;
+        border-bottom-width: 0px;
+        overflow: hidden;
+
+    }
+p {
+     margin: 4px 0 0 0
+}
+last-child td {
+    border-bottom: 1px solid #c8ccc0;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+img{
+    border-radius: 12px;
+    margin: 10px;
+}
+.aishat{
+    text-align: center;
+    border-style: groove;
+    border-bottom: 1px solid #c8ccc0;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    background-color: #f6f6ec;
+    margin: 0.5cm 3cm 0.5cm 3cm; 
+}
+
